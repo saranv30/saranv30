@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/saranv30/saranv30/blob/main/saran_github_banner_under_1mb.jpg" width="100%" />
+</p>
+
+
 # Hi, I'm Saran!
 
 ### Final-Year Artificial Intelligence & Data Science Engineering Student
